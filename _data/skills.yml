@@ -1,12 +1,14 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Programming Language
+  description: C#(ASP.NET),Jquery,AJAX,javascript,Angular JS , Angular,Powershell,Node js
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Server
+  description: Windows server, Linux ,Mongo DB(Replicaset + Sharding), MSSQL ,Maria DB
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Tooling /DevOps
+  description: Github, SVN ,Log parser
+
+- skill: Environment
+  description: AWS, KT-BIZ Cloud , Linux, Windows
+
+- skill: ETC
+  description: Jira 
