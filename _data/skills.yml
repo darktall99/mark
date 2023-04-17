@@ -1,6 +1,12 @@
 - skill: Programming Language
   description: C#(ASP.NET),Jquery,AJAX,javascript,Angular JS , Angular,Powershell,Node js
 
+- skill: RPA Skill
+  description: Studio / Studio X , Orchestrator | Automation Cloud - Functionalities
+
+- skill: Troubleshooting
+  description: Event Viewer, Fiddler, Wireshark
+
 - skill: Server
   description: Windows server, Linux ,Mongo DB(Replicaset + Sharding), MSSQL ,Maria DB
 
